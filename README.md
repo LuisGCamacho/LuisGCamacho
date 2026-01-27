@@ -1,9 +1,5 @@
 <h1 align="center"><b>Hi , I'm Luis Camacho </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student+<3"></a>
-</p>
-
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
@@ -19,24 +15,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student+<3"></a>
+</p>
 
 
-
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
-
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
