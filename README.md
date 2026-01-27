@@ -13,7 +13,7 @@ I'm a Computer Engineering student. I'm expanding my knowledge in software engin
 - 👯 I am interested in competitive programming and currently building a strong foundation in algorithms and data structures. I am a member of the Binary Brains Algorithmic Club at my university and actively practice problem-solving through platforms such as OmegaUp.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="">luisgustavo7106@gmail.com</a>
+- 📫 Reach out to me at: <a href="luisgustavo7106@gmail.com">luisgustavo7106@gmail.com</a>
 
 
 
