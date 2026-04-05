@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Luis Camacho </b></h1>
 
 
-<img src="***About me***
+***About me***
 
 
 I'm a Computer Engineering student. I'm expanding my knowledge in software engineering and machine learning. I enjoy developing things, learning new technologies, and broadening my knowledge through hands-on experience.
