@@ -8,9 +8,10 @@ I'm a Computer Engineering student. I'm expanding my knowledge in software engin
   - Machine Learning
   - Deep Learning
   - Agentic AI
+  - Competitive programming
   - Web Development
 
-- I am interested in competitive programming and currently building a strong foundation in algorithms and data structures. I am a member of the Binary Brains Algorithmic Club at my university.
+- I am interested in competitive programming and currently building a strong foundation in algorithms and data structures. I am a member of the Binary Brains Algorithmic Club at my university and ICPC participant.
 - I enjoy participating in hackathons and collaborative coding events!<br>
 -  Reach out to me at: <a href="">luisgustavo7106@gmail.com</a>
 
