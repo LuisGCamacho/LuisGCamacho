@@ -3,7 +3,7 @@
 ***About me***
 
 
-I'm a Computer Engineering student. I'm expanding my knowledge in software engineering and machine learning. I enjoy developing things, learning new technologies, and broadening my knowledge through hands-on experience.
+I'm a Computer Engineering student. I'm expanding my knowledge in software engineering and artificial intelligence. I enjoy developing things, learning new technologies, and broadening my knowledge through hands-on experience.
 - I’m currently learning ...
   - Machine Learning
   - Deep Learning
