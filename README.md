@@ -6,8 +6,9 @@
 I'm a Computer Engineering student. I'm expanding my knowledge in software engineering and machine learning. I enjoy developing things, learning new technologies, and broadening my knowledge through hands-on experience.
 - I’m currently learning ...
   - Machine Learning
+  - Deep Learning
   - Web Development
-  - Python
+
 - I am interested in competitive programming and currently building a strong foundation in algorithms and data structures. I am a member of the Binary Brains Algorithmic Club at my university.
 - I enjoy participating in hackathons and collaborative coding events!<br>
 -  Reach out to me at: <a href="">luisgustavo7106@gmail.com</a>
